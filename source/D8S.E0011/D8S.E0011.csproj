@@ -13,4 +13,8 @@
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RepositoryUrl>https://github.com/davidcoats/D8S.E0011.git</RepositoryUrl>
   </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\..\SafetyCone\R5T.L0066\source\R5T.L0066\R5T.L0066.csproj" />
+    <ProjectReference Include="..\..\..\..\SafetyCone\R5T.T0141\source\R5T.T0141\R5T.T0141.csproj" />
+  </ItemGroup>
 </Project>

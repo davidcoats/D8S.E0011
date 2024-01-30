@@ -7,7 +7,7 @@ namespace D8S.E0011
     {
         static void Main()
         {
-            Console.WriteLine("Hello World!");
+            Experiments.Instance.Try_GetFirstCharacter();
         }
     }
 }
